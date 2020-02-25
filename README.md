@@ -41,7 +41,7 @@ npm run
 
 4. In **General** tab, you can find **Web API Key**
 
-5. Copy **Web API Key**, Open **.env** file and replace **REACT_APP_FB_KEY** with copied **Web API Key**
+5. Copy **Web API Key**, Open **.env** file and replace **PUT_FIREBASE_API_KEY_HERE** with copied **Web API Key**
 
 ## Built with
 
