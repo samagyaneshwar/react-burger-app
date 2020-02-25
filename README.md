@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Clone
 
-Clone this repo into your local machine using `https://github.com/samagyani/react-burger-app.git`
+Clone this repo into your local machine using `https://github.com/samagyaneshwar/react-burger-app.git`
 
 ### Setup
 
